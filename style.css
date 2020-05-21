@@ -388,3 +388,21 @@ color: #f00;
 	height: 100%;
 	width: 100%;
 }
+#footer{
+	padding: 50px;
+	background-color: #644;
+	font-size: 35px;
+	text-decoration: none;
+}
+#footer a{
+	text-decoration: none;
+	color: #000;
+	min-width: 500px;
+}
+#footer .f-text-link{
+	margin-right:70px;
+}
+#footer .f-text-link:hover{
+	text-decoration:underline;
+	color: #401;
+}
